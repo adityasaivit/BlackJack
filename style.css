@@ -4,18 +4,20 @@
     height:50%;
     width:50%;
     align-items:center;
+    font-size:1.5rem
 
 
 }
 button{
     width:150px;
-    height:30px;
+    padding:2%;
     margin-top:4px;
     border-radius:10px;
     background-color:gold;;
     color:red;
     font-weight:bold;
     font-size:15px;
+
 
 
 
