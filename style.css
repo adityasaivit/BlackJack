@@ -1,7 +1,35 @@
-body{
+.outer{
     display:flex;
     flex-direction:column;
     height:50%;
     width:50%;
-    justify-
+    align-items:center;
+
+
+}
+button{
+    width:150px;
+    height:30px;
+    margin-top:4px;
+    border-radius:10px;
+    background-color:gold;;
+    color:red;
+    font-weight:bold;
+    font-size:15px;
+
+
+
+}
+h1{
+    color:goldenrod;
+
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:bold;
+    font-size:20px;
+    background:url("table.png");
+    background-size:cover;
 }
